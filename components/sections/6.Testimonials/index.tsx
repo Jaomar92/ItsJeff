@@ -5,7 +5,7 @@ const Testimonials = () => {
     <div className="bg-slate-800 text-white">
       <div className="container">
         <div className="py-8">
-          <h4></h4>
+          <h4>Testimonials</h4>
         </div>
       </div>
     </div>
