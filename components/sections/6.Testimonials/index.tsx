@@ -6,6 +6,7 @@ const Testimonials = () => {
       <div className="container">
         <div className="py-8">
           <h4>Testimonials</h4>
+          {/** What kind of talent i wish to collaborate with. */}
         </div>
       </div>
     </div>
