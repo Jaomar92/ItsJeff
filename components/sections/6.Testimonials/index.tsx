@@ -2,9 +2,11 @@ import React from "react";
 
 const Testimonials = () => {
   return (
-    <div className="bg-stone-800 text-white">
+    <div className="bg-slate-800 text-white">
       <div className="container">
-        <div className="py-8">Testimonials</div>
+        <div className="py-8">
+          <h4></h4>
+        </div>
       </div>
     </div>
   );

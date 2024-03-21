@@ -5,25 +5,29 @@ const Work = () => {
     <div className="bg-lime-300">
       <div className="container">
         <h2 className="font-bold text-3xl">My Journey</h2>
-        <div className="py-8 grid grid-cols-1 md:grid-cols-2 gap-3">
-          <div className="bg-[url(/macawesome.jpg)] bg-cover min-h-[300px] rounded-md shadow-lg"></div>
+        <div className="py-8 grid grid-cols-1 md:grid-cols-2 gap-12">
+          <div className="bg-[url(/macawesome.jpg)] bg-cover min-h-[300px] rounded-md  shadow-[0px 20px 0]"></div>
           <div>
             <p className="text-lg font-medium">
-              Its been a long lonely journey in the programming world for me.
-              What started off as just simply learning HTML and CSS during the
-              pandemic all changed when I learnt javascript.
+              Embarking on my journey in the programming world has been an
+              enriching experience, one that began with humble steps during the
+              pandemic. What started with learning HTML and CSS soon evolved as
+              I delved into the depths of JavaScript.
             </p>
             <p className="text-lg font-medium">
               <br />
-              From Free Youtube tutorials using only sublime to investing in
-              myself in Codecademy. I would have never imaged the opportunities
-              programming has given me in applying in what I learned in my first
-              job in accounting and finance.
+              Transitioning from free YouTube tutorials to investing in
+              platforms like Codecademy marked a significant shift in my
+              approach. It was a journey of self-discovery, where I realized the
+              vast potential programming holds, even in fields seemingly distant
+              like accounting and finance.
             </p>
             <p className="text-lg font-medium">
               <br />
-              There is a lot to learn but I geniuely enjoy seeing my creations
-              and work come to life.
+              With each project, I find a renewed sense of fulfillment,
+              witnessing my ideas materialize into functional creations. The
+              learning curve is steep, but the joy of seeing my work come to
+              life makes every challenge worthwhile.
             </p>
             <p className="text-lg font-medium">
               <br />
